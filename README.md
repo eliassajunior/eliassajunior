@@ -1,6 +1,6 @@
 # Olá! Meu nome é Elias Júnior.
 
-- **💻 Full Stack Developer**
+- **💻 Web Developer**
 - **💼 Freelancer**
 - **🎧 Music | 🎬 Movies | 🎮 Geek**
 
