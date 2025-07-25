@@ -26,6 +26,10 @@ Sou movido por desafios e motivado pelo aprendizado contínuo. Acredito no poder
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="35" alt="nodejs logo" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="35" alt="nestjs logo" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
 </div>
 
 ## 📱 Contacts:
