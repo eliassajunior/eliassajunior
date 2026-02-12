@@ -1,20 +1,12 @@
-# My name is Elias Júnior, a Full Stack Developer 💻
+# Elias Júnior - Desenvolvedor Back-End 💻
 
-## ✨ About Me:
+## ✨ Sobre Mim:
 
-Olá! Sou Elias Júnior, apaixonado por tecnologia e sempre em constante evolução no universo do desenvolvimento de software. Gosto de explorar novas ideias, aprender continuamente e transformar desafios em soluções inteligentes.
+Sou apaixonado por tecnologia e estou em constante evolução, buscando aprimorar minhas habilidades técnicas e minha capacidade de entregar soluções inteligentes e de alto valor. Gosto de transformar desafios em sistemas funcionais, bem arquitetados e alinhados às necessidades do negócio.
 
-Estou sempre aberto a colaborar em projetos, contribuir com equipes e participar de iniciativas que impulsionem meu crescimento e entreguem valor real.
+Atuo principalmente com NestJS, Node.js e TypeScript, desenvolvendo aplicações escaláveis e bem estruturadas, sempre priorizando boas práticas, organização de código e performance. Também trabalho com HTML, CSS, JavaScript e PostgreSQL, construindo soluções completas que integram back-end e front-end de forma eficiente.
 
-## 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliassajunior&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="140" alt="stats graph" />
-   <br /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eliassajunior&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=false" height="140" alt="languages graph" />
-</div>
-
-## 🛠️ Technologies:
+## 🛠️ Tecnologias:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
@@ -29,12 +21,10 @@ Estou sempre aberto a colaborar em projetos, contribuir com equipes e participar
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="35" alt="nestjs logo" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" />
-  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
 </div>
 
-## 📱 Contacts:
+## 📱 Contatos:
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/eliassajunior/)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:developereliasjunior@gmail.com)
